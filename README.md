@@ -1,5 +1,4 @@
-# ProfessionalWebDesign
-# [Click here to reach Professional Web Design Project]()
+## [Click here to reach Professional Web Design Project](https://musatirgithub.github.io/ProfessionalWebDesign/)
 <h3>In this project;</h3>
 <ul>
   <li>My main goal was to use SASS, for this purpose;</li>
@@ -7,5 +6,5 @@
   <li>In addition to importing these scss files into index.scss file, I've used @mixin and @extend structures.</li>
 </ul>  
 <div class="pics">
-  <img src="" width="600px">
+  <img src="https://musatirgithub.github.io/ProfessionalWebDesign/professionalWebDesign.gif" width="600px">
 </div>
