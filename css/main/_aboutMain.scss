@@ -1,0 +1,34 @@
+.about--main{
+    display: flex;
+    padding: 40px;
+    gap: 80px;
+    width: 100%;
+    height: 65vh;
+    background-color: $backgroundLightColor;
+    .main--left{
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+        width: 60%;
+    }
+
+    .main--right{
+        width: 40%;
+    }
+
+    .main--left-dark{
+        background-color: $backgroundColor;
+        color: $color;
+        padding: 10px;
+    }
+
+    .main--right{
+        @extend  .main--left-dark;
+        height: 250px;
+    }
+
+    .main--right h3{
+        padding: 20px 0;
+    }
+
+}

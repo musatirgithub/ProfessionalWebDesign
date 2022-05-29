@@ -1,0 +1,11 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: $backgroundColor;
+    color: $color;
+    width: 100%;
+    height: 15vh;
+    gap: 10px;
+}
